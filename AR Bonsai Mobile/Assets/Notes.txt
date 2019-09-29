@@ -1,0 +1,18 @@
+Save Data:
+
+Number of plants
+Plant Status:Days, Water%, Sunlight%, Difficulty, Soil Type, Pot Type, 
+
+
+
+Raycasting:
+
+AR Raycast:
+	Initial Placement of plant
+
+Actions:
+Watering, Trimming, Cutting, 
+
+Branches:
+MainBranch, SubBranch, EdgeBranch, FinalBranch
+

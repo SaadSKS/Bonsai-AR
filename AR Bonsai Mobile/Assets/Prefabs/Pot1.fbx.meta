@@ -3,7 +3,22 @@ guid: 6cbddfea102c5d24489c6b57f46b731a
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PotHoleFilter
+    second: {fileID: 2100000, guid: 0f1fcde9d4d557b409d0d96bfb5822ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PotRect1
+    second: {fileID: 2100000, guid: 50f485a4fbb494740a1befd5e88a9127, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PotRectFeet1
+    second: {fileID: 2100000, guid: c0bcc794a4980304dbda97307130190d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
