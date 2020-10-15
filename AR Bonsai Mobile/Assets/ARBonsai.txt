@@ -1,0 +1,25 @@
+LP tree
+
+LP Trunk Cylinder
+LP Leafs Plane	Alpha channeled photoshop painted
+Shadows Circular Very LP Circle, when imported set mesh shadows to shadows only
+
+Bonsai Jin
+
+UI:
+New Bonsai Plant>
+My Collection>
+Settings>
+About>
+Exit>
+
+
+
+Functionality:
+Pause/Resume AR
+Reset AR
+Place on AR Plane 
+Raycast hits only trackables
+Touch>Raycast>InstantiatePrefab
+
+Use AR Raycast for trackables & Simple Raycast for SpawnedPrefabs
